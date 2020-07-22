@@ -181,8 +181,8 @@ input, select, textarea {
 	}
 
 		a:hover {
-			border-bottom-color: transparent;
-			color: #ffffff !important;
+	border-bottom-color: transparent;
+	color: #ffffff !important;
 		}
 
 		a.special:not(.button) {
