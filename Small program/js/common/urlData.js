@@ -1,0 +1,1 @@
+drill.define(()=>{let e={};return location.search.replace(/^\?/,"").split("&").forEach(l=>{let t=l.split("=");2===t.length&&(e[t[0]]=t[1])}),e});

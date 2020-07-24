@@ -1,0 +1,1 @@
+drill.init(async e=>{let t=await e("common/data"),a=$("[p-custom]");t.on("pageLoaded",(t,p)=>{let r=a.find(`[p-page="${p.pageId}"]`);r.length&&(r.prop("eleData",{target:r.attr("p-target")||"safe",hor:"center",ver:"center",x:"0",y:"0",w:"100%",h:"100%"}),p.page.append(r),e("util/viewUtil").then(t=>{t.refreshView(r[0]);let a=r.attr("p-rely");e(a).post({page:r})}))})});
