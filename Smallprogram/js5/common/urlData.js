@@ -1,1 +1,0 @@
-"use strict";drill.define(function(){var r={};return location.search.replace(/^\?/,"").split("&").forEach(function(t){var e=t.split("=");2===e.length&&(r[e[0]]=e[1])}),r});

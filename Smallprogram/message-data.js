@@ -1,1 +1,0 @@
-window.pdata=new Promise((a,n)=>{window.addEventListener("message",function(n){n.data&&"initRunnerData"==n.data.type&&n.data.runnerData&&a(n.data.runnerData)})});

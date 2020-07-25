@@ -1,1 +1,0 @@
-drill.init(async(a,i)=>{let e=await a("common/urlData");"active"in e&&i.mainPage[e.active]?i.mainPage[e.active].active=1:i.mainPage[0].active=1});
