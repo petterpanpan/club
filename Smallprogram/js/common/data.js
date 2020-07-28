@@ -1,1 +1,0 @@
-drill.define(async e=>{let t=$(".p_main"),r=$({});return Object.defineProperties(r,{currentPage:{get:()=>t.find('[active="1"]')},currentPageId:{get(){let{currentPage:e}=this;return e.length?e.index():0}}}),r});

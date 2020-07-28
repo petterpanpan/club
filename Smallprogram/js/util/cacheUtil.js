@@ -1,1 +1,0 @@
-drill.define(async e=>{const r=(e,o,n=4)=>{let c=new Image;c.onload=(()=>{o()}),c.onerror=(()=>{n<=0?(console.error("img cache error => ",e),o()):r(e,o,--n)}),c.src=e};return{loadImg:r,cacheImg:e=>new Promise(o=>{let n=e.length;n?e.forEach(e=>{r(e,()=>{--n||o("imgs loaded")})}):o("no imgs")})}});
