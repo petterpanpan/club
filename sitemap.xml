@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-   <urlset>
+<urlset
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+       http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
+>
     
        <url>
            
@@ -79,5 +84,65 @@
            <changefreq>weekly</changefreq>
            <priority>0.9</priority>
        </url>
+       <url>
+ <loc>https://www.producthunt.com/posts/samho-creative-tools?utm_source=badge-featured&amp;utm_medium=badge&amp;utm_souce=badge-samho-creative-tools</loc>
+ <priority>0.3</priority>
+ <lastmod>2021-01-14</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+<url>
+ <loc>http://www.oneshu.xyz</loc>
+ <priority>0.3</priority>
+ <lastmod>2021-01-14</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+<url>
+ <loc>https://weibo.com/u/2301371097</loc>
+ <priority>0.3</priority>
+ <lastmod>2021-01-14</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+<url>
+ <loc>mailto:mlined@163.com</loc>
+ <priority>0.2</priority>
+ <lastmod>2021-01-14</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+<url>
+ <loc>http://www.samho.top</loc>
+ <priority>0.3</priority>
+ <lastmod>2021-01-14</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+<url>
+ <loc>http://www.321one.com/blog.html</loc>
+ <priority>0.3</priority>
+ <lastmod>2021-01-14</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+<url>
+ <loc>https://www.321one.com/job.html</loc>
+ <priority>0.3</priority>
+ <lastmod>2021-01-14</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+<url>
+ <loc>https://pan.bloggi.co</loc>
+ <priority>0.3</priority>
+ <lastmod>2021-01-14</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+<url>
+ <loc>https://oneshu.gitee.io/samho/</loc>
+ <priority>0.3</priority>
+ <lastmod>2021-01-14</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+<url>
+ <loc>http://samhoclub.mikecrm.com/P2DnPi3</loc>
+ <priority>0.3</priority>
+ <lastmod>2021-01-14</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
 
    </urlset>
