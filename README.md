@@ -1,5 +1,5 @@
 # club
-我们是山合创意工作室，一个集结全球创意工作者的社区。我们为一切从事创意领域工作的
+我们是尘渊文化创意有限公司，一个集结全球创意工作者的社区。我们为一切从事创意领域工作的
 
 人才（摄影，视频制作，平面设计，开发，产品，咨询设计，文案等）提供各方合作的渠道
 
@@ -34,7 +34,7 @@
 
 提是团队的其他成员认为你的报酬也是合理的。
 
-We are Samho Creative Studio, a global community of creative professionals. We 
+We are CY Creative Studio, a global community of creative professionals. We 
 
 provide avenues of collaboration and opportunities for people working in all 
 
