@@ -11,4 +11,4 @@ Disallow:
 User-agent: *
 Crawl-delay: 120
 Disallow:/bin/
-Sitemap: https://www.mline.top/sitemap.xml
+Sitemap: https://www.samho.club/sitemap.xml
